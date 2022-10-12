@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently training `**Formation Dev++**` with [The Hacking Project](https://www.thehackingproject.org) 
+- 🔭 I’m currently training **`Formation Dev++`** with [The Hacking Project](https://www.thehackingproject.org) 
 
 - 🌱 I’m currently learning **ruby 🛑**
 
