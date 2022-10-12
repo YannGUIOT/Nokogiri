@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yann GUIOT</h1>
 <h3 align="center">👨‍💻 Training as a Web Developer 👨‍💻</h3>
 <p align="center">
+
+&nbsp;
+
 - 🔭 I’m currently training `**Formation Dev++**` with [The Hacking Project](https://www.thehackingproject.org) 
 
 - 🌱 I’m currently learning **ruby 🛑**
