@@ -13,7 +13,7 @@
 
 - 📫 How to reach me -> **guiot_yann@hotmail.fr**
 
-<!-- - 🚧 W.I.P. [Yann GUIOT - Portfolio](https://yannguiot.github.io) -->
+- 🚧⚡ Fun [My Tic-Tac-Toe Game](https://yannguiot.github.io/)
 </p>
 
 <h3 align="center">Connect with me:</h3>
